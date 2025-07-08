@@ -43,7 +43,7 @@ flutter run
 ## Dependencies
 
 - `http`: For API calls
-- `GetX`: State management and navigation
+- `GetX`: State management
 
 ## Building for Release
 
