@@ -1,6 +1,15 @@
 # Mini Food Order Application
 
-A simple Flutter app to show list of food items, add them to a cart, and place an order.
+This application is show List of Food items, add items in cart and confirmation of order placed.
+
+## Screenshots
+
+![Home Screen](screenshots/1.jpg)
+![Food Cart items](screenshots/2.jpg)
+![Confirmation option](screenshots/3.jpg)
+![Order Confirmation](screenshots/4.jpg)
+
+
 
 ## Features
 
@@ -14,8 +23,8 @@ A simple Flutter app to show list of food items, add them to a cart, and place a
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/Ranjan221120/wayinfotech.git
+cd wayinfotech
 flutter pub get
 ```
 
@@ -42,4 +51,3 @@ To build an APK:
 ```bash
 flutter build apk --release
 ```
-
